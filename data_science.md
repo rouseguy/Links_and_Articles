@@ -2,3 +2,7 @@
 [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
 [What is data science?](http://yanirseroussi.com/2014/10/23/what-is-data-science/)
 [Funny cartoons on data science - SE](http://stats.stackexchange.com/questions/423/what-is-your-favorite-data-analysis-cartoon?newsletter=1&nlcode=231076|1179)
+[CMU-Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
+[CMU-Introduction to Machine Learning](http://alex.smola.org/teaching/10-701-15/index.html)
+[Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+[Creating NBA shots using Python](http://savvastjortjoglou.com/nba-shot-sharts.html)
