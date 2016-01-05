@@ -7,3 +7,4 @@
 7. [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 8. [Creating NBA shots using Python](http://savvastjortjoglou.com/nba-shot-sharts.html)
 9. [Power of decision stumps](https://statcompute.wordpress.com/2016/01/01/the-power-of-decision-stumps/)
+10. [Where bagging might work better than boosting](https://statcompute.wordpress.com/2016/01/02/where-bagging-might-work-better-than-boosting/)
