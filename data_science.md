@@ -8,3 +8,4 @@
 8. [Creating NBA shots using Python](http://savvastjortjoglou.com/nba-shot-sharts.html)
 9. [Power of decision stumps](https://statcompute.wordpress.com/2016/01/01/the-power-of-decision-stumps/)
 10. [Where bagging might work better than boosting](https://statcompute.wordpress.com/2016/01/02/where-bagging-might-work-better-than-boosting/)
+11. [Coding categorical variables](https://github.com/wdm0006/categorical_encoding)
