@@ -29,7 +29,8 @@
 10. http://colah.github.io/posts/2015-08-Understanding-LSTMs/index.html
 11. http://colah.github.io/posts/2015-09-NN-Types-FP/
 12. http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
-13. 
+13. [What neural networks think about your selfie?](https://karpathy.github.io/2015/10/25/selfie/)
+14. [Deep Learning resources for NLP](https://github.com/andrewt3000/DL4NLP/blob/master/README.md)
 
 #### CNN
 1. http://cs231n.github.io/convolutional-networks/
