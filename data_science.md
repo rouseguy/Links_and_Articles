@@ -14,3 +14,6 @@
 14. [Princeton course on theoretical computer science](http://www.cs.princeton.edu/courses/archive/spring14/cos511/schedule.html)
 15. [Comparing clustering algorithms in Python](http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb)
 16. [Explanation of Logistic Regression : in R](http://jocelynchi.com/notes-on-logistic-regression-with-examples-in-r/)
+17. [Sequential feature selection in Python](http://sebastianraschka.com/Articles/2014_sequential_sel_algos.html)
+18. [How to engineer good features](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
+19. [Learning how to code neural networks](https://blog.skcript.com/how-to-learn-neural-networks-758b78f2736e#.cse4ribmb)
