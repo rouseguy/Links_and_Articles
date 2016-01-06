@@ -9,3 +9,8 @@
 9. [Power of decision stumps](https://statcompute.wordpress.com/2016/01/01/the-power-of-decision-stumps/)
 10. [Where bagging might work better than boosting](https://statcompute.wordpress.com/2016/01/02/where-bagging-might-work-better-than-boosting/)
 11. [Coding categorical variables](https://github.com/wdm0006/categorical_encoding)
+12. [CPython internals - 10 hours codewalk](http://pgbovine.net/cpython-internals.htm)
+13. [Simple explanation of what is hyperparameter optimization and regularization](http://dswalter.github.io/blog/overfitting-regularization-hyperparameters/)
+14. [Princeton course on theoretical computer science](http://www.cs.princeton.edu/courses/archive/spring14/cos511/schedule.html)
+15. [Comparing clustering algorithms in Python](http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb)
+16. [Explanation of Logistic Regression : in R](http://jocelynchi.com/notes-on-logistic-regression-with-examples-in-r/)
