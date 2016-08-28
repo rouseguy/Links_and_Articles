@@ -31,6 +31,7 @@
 12. http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 13. [What neural networks think about your selfie?](https://karpathy.github.io/2015/10/25/selfie/)
 14. [Deep Learning resources for NLP](https://github.com/andrewt3000/DL4NLP/blob/master/README.md)
+15. [Synthetic Gradients](http://deliprao.com/archives/187)
 
 #### CNN
 1. http://cs231n.github.io/convolutional-networks/
