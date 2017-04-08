@@ -17,4 +17,5 @@
 17. [Sequential feature selection in Python](http://sebastianraschka.com/Articles/2014_sequential_sel_algos.html)
 18. [How to engineer good features](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
 19. [Learning how to code neural networks](https://blog.skcript.com/how-to-learn-neural-networks-758b78f2736e#.cse4ribmb)
-20. [Ethics in Data Science](http://andrewgelman.com/wp-content/uploads/2016/04/fung_ethics_v3.pdf)
+20. [Ethics in Data Science](http://andrewgelman.com/wp-content/uploads/2016/04/fung_ethics_v3.pdf)   
+21. [What is variational inference? A high-level explanation](https://www.cs.jhu.edu/~jason/tutorials/variational.html)
