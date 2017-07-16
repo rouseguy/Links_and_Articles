@@ -20,5 +20,8 @@
 20. [Ethics in Data Science](http://andrewgelman.com/wp-content/uploads/2016/04/fung_ethics_v3.pdf)   
 21. [What is variational inference? A high-level explanation](https://www.cs.jhu.edu/~jason/tutorials/variational.html)
 22. [How to handle unbalanced classes](http://www.svds.com/learning-imbalanced-classes/)
-23. [Bayesian Optimization](https://sigopt.com/research)
+23. [Bayesian Optimization](https://sigopt.com/research)  
+24. [AI Progress Measurement](https://www.eff.org/ai/metrics)   
+
+
 
