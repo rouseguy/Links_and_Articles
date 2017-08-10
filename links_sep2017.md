@@ -11,6 +11,8 @@
 [Model Parallelism](http://timdettmers.com/2014/11/09/model-parallelism-deep-learning/)  
 [Stanford CryptoCurrency Lecture](https://cointelegraph.com/news/stanford-cryptography-professor-releases-free-cryptocurrency-lecture)  
 [Understanding LSTM - Colah](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
-[Deep Learning NLP Best practices](http://ruder.io/deep-learning-nlp-best-practices/)
+[Deep Learning NLP Best practices](http://ruder.io/deep-learning-nlp-best-practices/)   
+[One dataset - visualized 25 different ways](http://flowingdata.com/2017/01/24/one-dataset-visualized-25-ways/?imm_mid=0ed213&cmp=em-data-na-na-newsltr_20170208)   
+[Math is beautiful - youtube videos](https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/playlists)    
 
 
