@@ -6,6 +6,7 @@ Hugo
 Goto directory where you want to store the blog
 
 Let’s say:  
+
     $ cd ~/Documents/blogs  
 
     $ hugo new site myblog   
